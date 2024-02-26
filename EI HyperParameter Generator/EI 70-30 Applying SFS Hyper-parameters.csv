@@ -1,0 +1,5 @@
+Column,SVC,LR,KNN
+Feature 4,"{'C': 4, 'gamma': 1, 'kernel': 'rbf'}","{'C': 2.7825594022071245, 'penalty': 'l2', 'solver': 'saga'}","{'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}"
+Feature 5,"{'C': 4, 'gamma': 1, 'kernel': 'rbf'}","{'C': 2.7825594022071245, 'penalty': 'l2', 'solver': 'saga'}","{'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}"
+Feature 7,"{'C': 4, 'gamma': 1, 'kernel': 'rbf'}","{'C': 1.0, 'penalty': 'l1', 'solver': 'saga'}","{'metric': 'manhattan', 'n_neighbors': 13, 'weights': 'distance'}"
+Feature 9,"{'C': 19, 'gamma': 0.1, 'kernel': 'rbf'}","{'C': 21.544346900318832, 'penalty': 'l1', 'solver': 'saga'}","{'metric': 'manhattan', 'n_neighbors': 20, 'weights': 'distance'}"

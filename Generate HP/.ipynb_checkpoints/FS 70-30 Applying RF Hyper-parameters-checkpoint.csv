@@ -1,0 +1,5 @@
+,0,1,2,3
+Column,Feature 4,Feature 5,Feature 7,Feature 9
+SVC,"{'C': 15, 'gamma': 0.1, 'kernel': 'rbf'}","{'C': 6, 'gamma': 0.1, 'kernel': 'rbf'}","{'C': 7, 'gamma': 0.1, 'kernel': 'rbf'}","{'C': 9, 'gamma': 1, 'kernel': 'linear'}"
+LR,"{'C': 2.7825594022071245, 'penalty': 'l2', 'solver': 'saga'}","{'C': 7.742636826811269, 'penalty': 'l2', 'solver': 'saga'}","{'C': 1.0, 'penalty': 'l1', 'solver': 'saga'}","{'C': 1.0, 'penalty': 'l1', 'solver': 'saga'}"
+KNN,"{'metric': 'manhattan', 'n_neighbors': 3, 'weights': 'distance'}","{'metric': 'manhattan', 'n_neighbors': 13, 'weights': 'distance'}","{'metric': 'manhattan', 'n_neighbors': 10, 'weights': 'distance'}","{'metric': 'manhattan', 'n_neighbors': 6, 'weights': 'distance'}"

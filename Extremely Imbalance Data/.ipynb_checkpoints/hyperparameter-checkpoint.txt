@@ -1,0 +1,38 @@
+70:30 all feature:
+
+BFE:
+SVC : {'C': 18, 'gamma': 0.1, 'kernel': 'rbf'}
+LR: {'C': 1.0, 'penalty': 'l1', 'solver': 'saga'}
+KNN: {'metric': 'manhattan', 'n_neighbors': 4, 'weights': 'distance'}
+
+RF
+
+SVC: {'C': 18, 'gamma': 0.1, 'kernel': 'rbf'}
+LR: {'C': 1.0, 'penalty': 'l1', 'solver': 'saga'}
+KNN: {'metric': 'manhattan', 'n_neighbors': 4, 'weights': 'distance'}
+
+SFS:
+
+SVC: {'C': 14, 'gamma': 0.01, 'kernel': 'rbf'}
+LR: {'C': 7.742636826811269, 'penalty': 'l2', 'solver': 'saga'}
+KNN: {'metric': 'manhattan', 'n_neighbors': 10, 'weights': 'distance'}
+
+80:20 all feature:
+
+BFE:
+
+SVC: {'C': 5, 'gamma': 0.1, 'kernel': 'rbf'}
+LR: {'C': 7.742636826811269, 'penalty': 'l1', 'solver': 'saga'}
+KNN: {'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}
+
+RF:
+
+SVC: {'C': 5, 'gamma': 0.1, 'kernel': 'rbf'}
+LR: {'C': 7.742636826811269, 'penalty': 'l1', 'solver': 'saga'}
+KNN: {'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}
+
+SFS:
+
+SVC: {'C': 5, 'gamma': 0.1, 'kernel': 'rbf'}
+LR: {'C': 7.742636826811269, 'penalty': 'l1', 'solver': 'saga'}
+KNN: {'metric': 'manhattan', 'n_neighbors': 11, 'weights': 'distance'}
